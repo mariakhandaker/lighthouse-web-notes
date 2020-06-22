@@ -1,4 +1,4 @@
-# Maria Khandaker's NOtes
+# Maria Khandaker's Notes
 
 ## Summary 
 This repository contains all of the notes taken by Maria Khandaker for the Lighthouse Labs Web Development Bootcamp. 
